@@ -3,7 +3,7 @@
 <br>
 <h2>Projeto realizado na aula de front end do <a href="https://devclub.com.br">DevClub</a></h2>
 <br>
-<p>Utilizei as seguintes tecnologias:</p>
+<p>Este é um projeto de estudo copiando a interface do YouTube focando em aprendizado de estilos pelo CSS3, utilizei as seguintes tecnologias:</p>
 <br>
 <br>
 <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/5ca20288-f920-4219-b0f7-d4a3e3bdd336" />
